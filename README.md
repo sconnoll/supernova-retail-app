@@ -1,5 +1,9 @@
 # supernova
 
+An interactive, front-end e-commerce web application that dynamically renders specific product information from a RESTful API to meet client's needs. This project was built by a team of 4 Software Engineers using technologies including React, Express, Recoil, Git, and Webpack and leveraging agile methodologies. 
+
+![supernova Demo](/assets/readme.gif)
+
 ## Building and running on localhost
 
 First install dependencies:
@@ -30,7 +34,7 @@ npm run build-dev
 
 Open the file `dist/index.html` in your browser
 
-Tech Stack
+Tech Stack/Dependencies
 
 - React
 - react-router
@@ -44,58 +48,8 @@ Tech Stack
 - Enzyme
 - Axios
 
-## Git Workflow
+## Contributors
 
-Check Status Through
-
-```sh
-git status
-```
-
-1. Pull Down Changes From Master and Create New Local Feature Branch
-
-```sh
-git checkout master
-git pull origin master
-git checkout -b <branchname>
-```
-
-OR, Checkout Existing Feature Branch
-
-```sh
-git checkout <branchname>
-```
-
-2. Make and Commit Your File Changes
-
-AND, If You Realize You’ve Accidentally Made Your Changes on Master
-
-```sh
-git stash
-git checkout -b <branchname> OR, git checkout <branchname>
-git stash pop
-```
-
-3. Pull Changes from Remote Master Branch to Local Feature Branch
-
-```sh
-git pull origin master
-```
-
-4. Create and Push Changes to Remote Feature Branch if Need Be
-
-```sh
-git push -u origin <branchname>
-```
-
-OR, Push Changes to Existing Remote Feature Branch
-
-```sh
-git push origin <branchname>
-```
-
-5. Create Pull Request on Github
-
-6. Merge Code with Team
-
-7. Pull Down Changes From Remote Master to Local Master
+- [Chris Campos](https://github.com/cam1403)
+- [Julia McNeill](https://github.com/juliamcneill)
+- [Henry Wang](https://github.com/HiHenryW)
