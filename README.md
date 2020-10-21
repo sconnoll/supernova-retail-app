@@ -2,7 +2,7 @@
 
 An interactive, front-end e-commerce web application that dynamically renders specific product information from a RESTful API to meet client's needs. This project was built by a team of 4 Software Engineers using technologies including React, Express, Recoil, Git, and Webpack and leveraging agile methodologies. 
 
-![]()
+![supernova Demo](/assets/readme.gif)
 
 ## Building and running on localhost
 
